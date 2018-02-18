@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ülke Bilgisi</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog">Doğru cevap oranınız: %%%1$.02f \nToplam Puan: %2$d</string>
+    <string name="title_activity_oyun">Oyun</string>
+    <string name="title_activity_bolumler">Bolumler</string>
+    <string name="title_activity_sorular">Sorular</string>
+</resources>

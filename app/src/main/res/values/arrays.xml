@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bayraklar">
+        <item>Türkiye-@drawable/turkey</item>
+        <item>Almanya-@drawable/germany</item>
+        <item>Amerika-@drawable/unitedstatesofamerica</item>
+        <item>Birleşik Krallık-@drawable/unitedkingdom</item>
+        <item>İtalya-@drawable/italy</item>
+        <item>Rusya-@drawable/russia</item>
+        <item>Çin-@drawable/china</item>
+        <item>Japonya-@drawable/japan</item>
+        <item>Azerbaycan-@drawable/azerbaijan</item>
+        <item>Ukrayna-@drawable/ukraine</item>
+        <item>Arjantin-@drawable/argentina</item>
+        <item>Brezilya-@drawable/brazil</item>
+        <item>Avusturalya-@drawable/australia</item>
+        <item>İngiltere-@drawable/england</item>
+        <item>Avusturya-@drawable/austria</item>
+        <item>Belçika-@drawable/belgium</item>
+        <item>Fransa-@drawable/france</item>
+        <item>Hollanda-@drawable/netherlands</item>
+        <item>İrlanda-@drawable/ireland</item>
+        <item>İsviçre-@drawable/switzerland</item>
+        <item>Monako-@drawable/monaco</item>
+        <item>Lüksemburg-@drawable/luxembourg</item>
+        <item>Beyaz Rusya-@drawable/belarus</item>
+        <item>Lihtenştayn-@drawable/liechtenstein</item>
+        <item>Bulgaristan-@drawable/bulgaria</item>
+        <item>Çek Cumhuriyeti-@drawable/czech</item>
+        <item>Maceristan-@drawable/hungary</item>
+        <item>Moldova-@drawable/moldova</item>
+        <item>Polonya-@drawable/poland</item>
+        <item>Romanya-@drawable/romania</item>
+        <item>Slovakya-@drawable/slovakia</item>
+        <item>Danimarka-@drawable/denmark</item>
+        <item>Estonya-@drawable/estonia</item>
+        <item>Finlandiya-@drawable/finland</item>
+        <item>İsveç-@drawable/sweden</item>
+        <item>İzlanda-@drawable/iceland</item>
+        <item>Letonya-@drawable/latvia</item>
+        <item>Litvanya-@drawable/lithuania</item>
+        <item>Norveç-@drawable/norway</item>
+        <item>Andorra-@drawable/andorra</item>
+        <item>Arnavutluk-@drawable/albania</item>
+        <item>Bosna Hersek-@drawable/bosnia</item>
+        <item>Hırvatistan-@drawable/croatia</item>
+        <item>Karadağ-@drawable/montenegro</item>
+        <item>Makedonya-@drawable/macedonia</item>
+        <item>Malta-@drawable/malta</item>
+        <item>Potekiz-@drawable/portugal</item>
+        <item>San Marino-@drawable/sanmarino</item>
+        <item>Slovenya-@drawable/slovenia</item>
+        <item>Vatikan-@drawable/vatican</item>
+        <item>Yunanistan-@drawable/greece</item>
+        <item>Angola-@drawable/angola</item>
+        <item>Benin-@drawable/benin</item>
+        <item>Botsvana-@drawable/botswana</item>
+        <item>Burkina Faso-@drawable/burkinafaso</item>
+        <item>Burundi-@drawable/burundi</item>
+        <item>Cezayir-@drawable/algeria</item>
+        <item>Cibuti-@drawable/djibouti</item>
+        <item>Çad-@drawable/chad</item>
+        <item>Namibia-@drawable/namibia</item>
+        <item>Madagaskar-@drawable/madagascar</item>
+        <item>Liberya-@drawable/liberia</item>
+        <item>Seyşeller-@drawable/seychelles</item>
+        <item>Somali-@drawable/somalia</item>
+        <item>Orta Afrika-@drawable/centralafrican</item>
+        <item>Tunus-@drawable/tunisia</item>
+        <item>Libya-@drawable/libya</item>
+        <item>Nijer-@drawable/niger</item>
+        <item>Kongo Cunhuriyeti-@drawable/congo</item>
+        <item>Yeşil Burun Adaları-@drawable/capeverde</item>
+        <item>Ekvator Ginesi-@drawable/equatorial</item>
+        <item>Afganistan-@drawable/afghanistan</item>
+        <item>Bahreyn-@drawable/bahrain</item>
+        <item>Doğu Timor-@drawable/easttimor</item>
+        <item>Filistin-@drawable/palestine</item>
+        <item>Nepal-@drawable/nepal</item>
+        <item>Pakistan-@drawable/pakistan</item>
+        <item>Gürcistan-@drawable/georgia</item>
+        <item>Irak-@drawable/iraq</item>
+        <item>Suriye-@drawable/syria</item>
+        <item>Kuveyt-@drawable/kuwait</item>
+        <item>Singapur-@drawable/singapore</item>
+        <item>Katar-@drawable/qatar</item>
+        <item>Birleşik Arap Emirlikleri-@drawable/arab</item>
+        <item>Bruney-@drawable/brunei</item>
+        <item>Bangladeş-@drawable/bangladesh</item>
+        <item>Bhutan-@drawable/bhutan</item>
+        <item>Venezuela-@drawable/venezuela</item>
+        <item>Şili-@drawable/chile</item>
+        <item>Surinam-@drawable/suriname</item>
+        <item>Peru-@drawable/peru</item>
+        <item>Paraguay-@drawable/paraguay</item>
+        <item>Kolombiya-@drawable/colombia</item>
+        <item>Bolivya-@drawable/bolivia</item>
+        <item>Ekvator-@drawable/ecuador</item>
+        <item>Uruguay-@drawable/uruguay</item>
+        <item>Antigua ve Barbuda-@drawable/antigua</item>
+        <item>Bahamalar-@drawable/bahamas</item>
+        <item>Kanada-@drawable/canada</item>
+        <item>Panama-@drawable/panama</item>
+        <item>Meksika-@drawable/mexico</item>
+        <item>Küba-@drawable/cuba</item>
+        <item>Kosta Rika-@drawable/costarica</item>
+        <item>Jamaika-@drawable/jamaica</item>
+        <item>Belize-@drawable/belize</item>
+        <item>Dominik Cumhuriyeti-@drawable/dominicanrepublic</item>
+        <item>Dominika-@drawable/dominica</item>
+        <item>El Salvador-@drawable/elsalvador</item>
+        <item>Honduras-@drawable/honduras</item>
+        <item>Guatemala-@drawable/guatemala</item>
+    </string-array>
+    <string-array name="avrupa">
+        <item>Türkiye-@drawable/turkey</item>
+        <item>Birleşik Krallık-@drawable/unitedkingdom</item>
+        <item>İtalya-@drawable/italy</item>
+        <item>Ukrayna-@drawable/ukraine</item>
+        <item>Almanya-@drawable/germany</item>
+        <item>Avusturya-@drawable/austria</item>
+        <item>Belçika-@drawable/belgium</item>
+        <item>Fransa-@drawable/france</item>
+        <item>Hollanda-@drawable/netherlands</item>
+        <item>İrlanda-@drawable/ireland</item>
+        <item>İsviçre-@drawable/switzerland</item>
+        <item>Monako-@drawable/monaco</item>
+        <item>Lüksemburg-@drawable/luxembourg</item>
+        <item>Beyaz Rusya-@drawable/belarus</item>
+        <item>Lihtenştayn-@drawable/liechtenstein</item>
+        <item>Bulgaristan-@drawable/bulgaria</item>
+        <item>Çek Cumhuriyeti-@drawable/czech</item>
+        <item>Maceristan-@drawable/hungary</item>
+        <item>Moldova-@drawable/moldova</item>
+        <item>Polonya-@drawable/poland</item>
+        <item>Romanya-@drawable/romania</item>
+        <item>Slovakya-@drawable/slovakia</item>
+        <item>Danimarka-@drawable/denmark</item>
+        <item>Estonya-@drawable/estonia</item>
+        <item>Finlandiya-@drawable/finland</item>
+        <item>İsveç-@drawable/sweden</item>
+        <item>İzlanda-@drawable/iceland</item>
+        <item>Letonya-@drawable/latvia</item>
+        <item>Litvanya-@drawable/lithuania</item>
+        <item>Norveç-@drawable/norway</item>
+        <item>Andorra-@drawable/andorra</item>
+        <item>Arnavutluk-@drawable/albania</item>
+        <item>Bosna Hersek-@drawable/bosnia</item>
+        <item>Hırvatistan-@drawable/croatia</item>
+        <item>Karadağ-@drawable/montenegro</item>
+        <item>Makedonya-@drawable/macedonia</item>
+        <item>Malta-@drawable/malta</item>
+        <item>Potekiz-@drawable/portugal</item>
+        <item>San Marino-@drawable/sanmarino</item>
+        <item>Slovenya-@drawable/slovenia</item>
+        <item>Vatikan-@drawable/vatican</item>
+        <item>Yunanistan-@drawable/greece</item>
+    </string-array>
+    <string-array name="afrika">
+        <item>Angola-@drawable/angola</item>
+        <item>Benin-@drawable/benin</item>
+        <item>Botsvana-@drawable/botswana</item>
+        <item>Burkina Faso-@drawable/burkinafaso</item>
+        <item>Burundi-@drawable/burundi</item>
+        <item>Cezayir-@drawable/algeria</item>
+        <item>Cibuti-@drawable/djibouti</item>
+        <item>Çad-@drawable/chad</item>
+        <item>Namibia-@drawable/namibia</item>
+        <item>Madagaskar-@drawable/madagascar</item>
+        <item>Liberya-@drawable/liberia</item>
+        <item>Seyşeller-@drawable/seychelles</item>
+        <item>Somali-@drawable/somalia</item>
+        <item>Orta Afrika-@drawable/centralafrican</item>
+        <item>Tunus-@drawable/tunisia</item>
+        <item>Libya-@drawable/libya</item>
+        <item>Nijer-@drawable/niger</item>
+        <item>Kongo Cunhuriyeti-@drawable/congo</item>
+        <item>Yeşil Burun Adaları-@drawable/capeverde</item>
+        <item>Ekvator Ginesi-@drawable/equatorial</item>
+    </string-array>
+    <string-array name="asya">
+        <item>Türkiye-@drawable/turkey</item>
+        <item>Azerbaycan-@drawable/azerbaijan</item>
+        <item>Çin-@drawable/china</item>
+        <item>Japonya-@drawable/japan</item>
+        <item>Afganistan-@drawable/afghanistan</item>
+        <item>Bahreyn-@drawable/bahrain</item>
+        <item>Doğu Timor-@drawable/easttimor</item>
+        <item>Filistin-@drawable/palestine</item>
+        <item>Nepal-@drawable/nepal</item>
+        <item>Pakistan-@drawable/pakistan</item>
+        <item>Gürcistan-@drawable/georgia</item>
+        <item>Irak-@drawable/iraq</item>
+        <item>Suriye-@drawable/syria</item>
+        <item>Kuveyt-@drawable/kuwait</item>
+        <item>Singapur-@drawable/singapore</item>
+        <item>Katar-@drawable/qatar</item>
+        <item>Birleşik Arap Emirlikleri-@drawable/arab</item>
+        <item>Bruney-@drawable/brunei</item>
+        <item>Bangladeş-@drawable/bangladesh</item>
+        <item>Bhutan-@drawable/bhutan</item>
+    </string-array>
+    <string-array name="kamerika">
+        <item>Amerika-@drawable/unitedstatesofamerica</item>
+        <item>Antigua ve Barbuda-@drawable/antigua</item>
+        <item>Bahamalar-@drawable/bahamas</item>
+        <item>Kanada-@drawable/canada</item>
+        <item>Panama-@drawable/panama</item>
+        <item>Meksika-@drawable/mexico</item>
+        <item>Küba-@drawable/cuba</item>
+        <item>Kosta Rika-@drawable/costarica</item>
+        <item>Jamaika-@drawable/jamaica</item>
+        <item>Belize-@drawable/belize</item>
+        <item>Dominik Cumhuriyeti-@drawable/dominicanrepublic</item>
+        <item>Dominika-@drawable/dominica</item>
+        <item>El Salvador-@drawable/elsalvador</item>
+        <item>Honduras-@drawable/honduras</item>
+        <item>Guatemala-@drawable/guatemala</item>
+    </string-array>
+    <string-array name="gamerika">
+        <item>Arjantin-@drawable/argentina</item>
+        <item>Brezilya-@drawable/brazil</item>
+        <item>Venezuela-@drawable/venezuela</item>
+        <item>Şili-@drawable/chile</item>
+        <item>Surinam-@drawable/suriname</item>
+        <item>Peru-@drawable/peru</item>
+        <item>Paraguay-@drawable/paraguay</item>
+        <item>Kolombiya-@drawable/colombia</item>
+        <item>Bolivya-@drawable/bolivia</item>
+        <item>Ekvator-@drawable/ecuador</item>
+        <item>Uruguay-@drawable/uruguay</item>
+    </string-array>
+    <string-array name="baskentler">
+        <item>Ankara-@drawable/turkey</item>
+        <item>Berlin-@drawable/germany</item>
+        <item>Washington-@drawable/unitedstatesofamerica</item>
+        <item>Londra-@drawable/unitedkingdom</item>
+        <item>Roma-@drawable/italy</item>
+        <item>Moskova-@drawable/russia</item>
+        <item>Pekin-@drawable/china</item>
+        <item>Tokyo-@drawable/japan</item>
+        <item>Bakü-@drawable/azerbaijan</item>
+        <item>Kiev-@drawable/ukraine</item>
+        <item>Buenos Aires-@drawable/argentina</item>
+        <item>Brasília-@drawable/brazil</item>
+        <item>Canberra-@drawable/australia</item>
+    </string-array>
+    <string-array name="paralar">
+        <item>Türkiye-@drawable/lira</item>
+        <item>Vietnam-@drawable/dong</item>
+        <item>Karadağ-@drawable/euro</item>
+        <item>Ermenistan-@drawable/dram</item>
+        <item>Danimarka-@drawable/krone</item>
+        <item>Kosta Rika-@drawable/colon</item>
+        <item>Tayland-@drawable/baht</item>
+        <item>Moldova-@drawable/lev</item>
+        <item>İsrail-@drawable/shekel</item>
+        <item>Polonya-@drawable/zloty</item>
+        <item>Moğolistan-@drawable/tugrik</item>
+        <item>Rusya-@drawable/ruble</item>
+        <item>Filipinler-@drawable/pezo</item>
+        <item>Birleşik Krallık-@drawable/sterling</item>
+        <item>Tayvan-@drawable/taiwan</item>
+    </string-array>
+</resources>
